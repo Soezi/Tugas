@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="title_activity_soal1">Soal1</string>
+    <string name="title_activity_soal2">Soal2</string>
+    <string name="title_activity_soal3">Soal3</string>
+    <string name="title_activity_soal4">Soal4</string>
+    <string name="title_activity_soal5">Soal5</string>
+    <string name="title_activity_soal6">Soal6</string>
+    <string name="title_activity_soal7">Soal7</string>
+    <string name="title_activity_soal8">Soal8</string>
+    <string name="title_activity_soal9">Soal9</string>
+    <string name="title_activity_soal10">Soal10</string>
+    <string name="title_activity_selesai">Selesai</string>
+
+</resources>
